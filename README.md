@@ -1,4 +1,4 @@
 # MyNeuralNetworks
-my name is noob
-artificial intelligence
-# MyNeuralNetworks
+my name is noob,
+an artificial intelligence
+
